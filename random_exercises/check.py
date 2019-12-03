@@ -1,0 +1,1 @@
+print(["down","right","up","left"]*2)

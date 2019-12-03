@@ -1,0 +1,2 @@
+#Print first 100 odd numbers in Python.
+
